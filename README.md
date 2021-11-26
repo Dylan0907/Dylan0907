@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Henry-ecommerce](https://github.com/tomasellis/henry-ecommerce)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dylan0907](https://github.com/Dylan0907)
 
